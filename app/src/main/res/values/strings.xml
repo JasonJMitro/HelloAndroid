@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="udacity_name_play">The Udacity of Hope and the Hope of Udacity</string>
+    <string name="udacity_blog_watkins_quote">If you’re contemplating career change, but wondering about the risks, take heart. It can be done, and you can succeed!</string>
+    <string name="business">Udacity</string>
+    <string name="address">2465 Latham St, CA 94043</string>
+    <string name="phone">+16505555555</string>
+    <string name="web">www.udacity.com</string>
+    <string name="logo">Udacity logo</string>
+    <string name="poster">Yes you can code poster</string>
+
+
+</resources>
